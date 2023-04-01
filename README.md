@@ -3,7 +3,7 @@
 
 For more information on the project read the Project Description & Features.pdf file.
 
-Before running the census_data.ipynb or census_dash.ipynb file, you will need to do the folling:
+Before running the census_data.ipynb or census_dash.ipynb file, you will need to do the following:
 
 Get a an API key for the US Census Bureau APIs by visiting the following site:
 https://api.census.gov/data/key_signup.html
